@@ -1,0 +1,5 @@
+{
+  "name": "Internship Matcher UAE",
+  "description": "An AI-powered web application that collects student details and automatically matches them with relevant internship opportunities in the UAE, providing application tips for each role.",
+  "requestFramePermissions": []
+}
